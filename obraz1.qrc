@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="mapa">
+    <file>mapa.jpg</file>
+  </qresource>
+  <qresource prefix="wska">
+    <file>wska.PNG</file>
+  </qresource>
+  <qresource prefix="wyk">
+    <file>wyk.PNG</file>
+  </qresource>
+</RCC>
